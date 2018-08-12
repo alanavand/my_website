@@ -1,3 +1,58 @@
 body {
-    background-color: #4176cc;
+    background-color: #f3d746a8;
+}
+#profilepic {
+    border-radius: 50%;
+    border-width: 7px;
+    border-color:#f0f0eda8;
+    border-style:outset;
+    height: 280px;
+}
+
+.alana-header {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-text {
+    font-size: 22px;
+    font-style: bold;
+    font-family: "Lucida Console";
+    text-align: center;
+    color: rgb(34, 33, 33);
+    margin-top: 12px; 
+    margin-bottom: 40px;
+}
+
+.services {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 70%;
+    margin: auto auto;
+}
+
+#travelpic {
+    border-radius: 10px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#photographypic {
+    border-radius: 10px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#altmedicinepic {
+    border-radius: 10px;
+    height: 180px;
+    margin-left: 20px;
+    margin-top: 20px;
 }
